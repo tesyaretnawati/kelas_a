@@ -22,3 +22,7 @@ Kangguru 1 = 0 -> 3 -> 6 -> 9 -> 12
 Kangguru 2 = 4 -> 6 -> 8 -> 10 -> 12
 
 Kedua kangguru sama-sama memiliki nilai yang sama pada jumlah lompatan yang sama yaitu nilai 12 dengan jumlah lompatan sebanyak 4.
+
+
+Keterangan:
+Batas akhir melakukan pull request adalah hari minggu tanggal 24 Februari 2019, pukul 23.59 WIB.
